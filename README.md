@@ -41,50 +41,52 @@ It provides an engaging user experience with interactive sections, fitness tools
 
 ### 🏠 Homepage
 
-![Homepage Screenshot](https://raw.githubusercontent.com/YOUR_USERNAME/Pulse-Fitness/main/images/home-preview.png)
-
+![Homepage Screenshot](<img width="954" height="593" alt="image" src="https://github.com/user-attachments/assets/aaefff1d-aee3-4c43-8a42-49a693c4b0c6" />
+)
 A powerful hero section introducing the fitness experience.
 
 ### 🏋️ About Section
 
-![About Screenshot](https://raw.githubusercontent.com/YOUR_USERNAME/Pulse-Fitness/main/images/about-preview.png)
-
+![About Screenshot](<img width="966" height="445" alt="image" src="https://github.com/user-attachments/assets/2ab74ccd-aa8b-4c85-94fd-caad745a4bac" />
+)
 Highlights the gym's mission, trainers, and achievements.
 
 ### 🔥 Services Section
 
-![Services Screenshot](https://raw.githubusercontent.com/YOUR_USERNAME/Pulse-Fitness/main/images/services-preview.png)
-
+![Services Screenshot](<img width="953" height="528" alt="image" src="https://github.com/user-attachments/assets/b88e0ca4-f63c-462f-afc3-9dd40586ef2d" />
+)
 Showcases available fitness programs and training options.
 
 ### 🛍️ Shop Section
 
-![Shop Screenshot](https://raw.githubusercontent.com/YOUR_USERNAME/Pulse-Fitness/main/images/shop-preview.png)
-
+![Shop Screenshot](<img width="959" height="543" alt="image" src="https://github.com/user-attachments/assets/b683c548-a9b2-49ec-aa06-52add2379973" />
+)
 Display of fitness equipment and gym products.
 
 ### 📊 BMI Calculator
 
-![BMI Screenshot](https://raw.githubusercontent.com/YOUR_USERNAME/Pulse-Fitness/main/images/bmi-preview.png)
-
+![BMI Screenshot](<img width="958" height="536" alt="image" src="https://github.com/user-attachments/assets/6f5bd714-7dc6-4847-8b0e-67854eb799c1" />
+)
 Interactive BMI calculator that helps users evaluate their fitness level.
 
 ### ⭐ Client Reviews
 
-![Reviews Screenshot](https://raw.githubusercontent.com/YOUR_USERNAME/Pulse-Fitness/main/images/reviews-preview.png)
-
+![Reviews Screenshot](<img width="958" height="536" alt="image" src="https://github.com/user-attachments/assets/882b76b9-8331-4480-95e7-feac881bb34b" />
+)
 Customer testimonials displayed using a responsive Swiper slider.
 
 ### 💰 Pricing Plans
 
-![Pricing Screenshot](https://raw.githubusercontent.com/YOUR_USERNAME/Pulse-Fitness/main/images/pricing-preview.png)
-
+![Pricing Screenshot](<img width="966" height="537" alt="image" src="https://github.com/user-attachments/assets/18804dc2-46e1-4aa5-b64d-9817a4bb5241" />
+)
 Monthly and yearly membership plans with dynamic switching.
 
 ### 📞 Contact Section
 
-![Contact Screenshot](https://raw.githubusercontent.com/YOUR_USERNAME/Pulse-Fitness/main/images/contact-preview.png)
-
+![Contact Screenshot](<img width="966" height="535" alt="image" src="https://github.com/user-attachments/assets/8d869d6b-b699-4bad-98bf-8d2895b1f940" />
+)
+(<img width="955" height="538" alt="image" src="https://github.com/user-attachments/assets/8beb27fd-31f8-4010-bf0a-63a38292e806" />
+)
 Easy-to-use contact form and gym information.
 
 ## ✨ Future Improvements
@@ -105,7 +107,7 @@ Easy-to-use contact form and gym information.
 
 Check out the live version here:
 
-https://YOUR_USERNAME.github.io/Pulse-Fitness/
+ebrahimhiggi.github.io/PulseFitness/
 
 ## 👨‍💻 Author
 
