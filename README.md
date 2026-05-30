@@ -83,8 +83,7 @@ Monthly and yearly membership plans with dynamic switching.
 
 ### 📞 Contact Section
 
-![Contact Screenshot](<img width="966" height="535" alt="image" src="https://github.com/user-attachments/assets/8d869d6b-b699-4bad-98bf-8d2895b1f940" />
-)
+![Contact Screenshot]<img width="966" height="535" alt="image" src="https://github.com/user-attachments/assets/8d869d6b-b699-4bad-98bf-8d2895b1f940" />
 <img width="955" height="538" alt="image" src="https://github.com/user-attachments/assets/8beb27fd-31f8-4010-bf0a-63a38292e806" />
 
 Easy-to-use contact form and gym information.
@@ -107,7 +106,7 @@ Easy-to-use contact form and gym information.
 
 Check out the live version here:
 
-(https://ebrahimhiggi.github.io/PulseFitness/)
+https://ebrahimhiggi.github.io/PulseFitness/
 
 ## 👨‍💻 Author
 
